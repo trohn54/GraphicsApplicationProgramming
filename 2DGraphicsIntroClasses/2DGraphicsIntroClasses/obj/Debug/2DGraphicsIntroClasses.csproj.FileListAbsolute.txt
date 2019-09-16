@@ -1,0 +1,14 @@
+C:\Users\david\source\repos\2DGraphicsIntroClasses\2DGraphicsIntroClasses\obj\Debug\2DGraphicsIntroClasses.csprojAssemblyReference.cache
+C:\Users\david\source\repos\2DGraphicsIntroClasses\2DGraphicsIntroClasses\obj\Debug\MainWindow.g.cs
+C:\Users\david\source\repos\2DGraphicsIntroClasses\2DGraphicsIntroClasses\obj\Debug\App.g.cs
+C:\Users\david\source\repos\2DGraphicsIntroClasses\2DGraphicsIntroClasses\obj\Debug\2DGraphicsIntroClasses_MarkupCompile.cache
+C:\Users\david\source\repos\2DGraphicsIntroClasses\2DGraphicsIntroClasses\obj\Debug\2DGraphicsIntroClasses_MarkupCompile.lref
+C:\Users\david\source\repos\2DGraphicsIntroClasses\2DGraphicsIntroClasses\bin\Debug\2DGraphicsIntroClasses.exe.config
+C:\Users\david\source\repos\2DGraphicsIntroClasses\2DGraphicsIntroClasses\bin\Debug\2DGraphicsIntroClasses.exe
+C:\Users\david\source\repos\2DGraphicsIntroClasses\2DGraphicsIntroClasses\bin\Debug\2DGraphicsIntroClasses.pdb
+C:\Users\david\source\repos\2DGraphicsIntroClasses\2DGraphicsIntroClasses\obj\Debug\MainWindow.baml
+C:\Users\david\source\repos\2DGraphicsIntroClasses\2DGraphicsIntroClasses\obj\Debug\2DGraphicsIntroClasses.g.resources
+C:\Users\david\source\repos\2DGraphicsIntroClasses\2DGraphicsIntroClasses\obj\Debug\_2DGraphicsIntroClasses.Properties.Resources.resources
+C:\Users\david\source\repos\2DGraphicsIntroClasses\2DGraphicsIntroClasses\obj\Debug\2DGraphicsIntroClasses.csproj.GenerateResource.cache
+C:\Users\david\source\repos\2DGraphicsIntroClasses\2DGraphicsIntroClasses\obj\Debug\2DGraphicsIntroClasses.exe
+C:\Users\david\source\repos\2DGraphicsIntroClasses\2DGraphicsIntroClasses\obj\Debug\2DGraphicsIntroClasses.pdb
